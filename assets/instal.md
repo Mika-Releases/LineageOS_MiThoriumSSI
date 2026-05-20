@@ -14,6 +14,9 @@
 10. reboot to los_recovery & Select `Factory reset` --> `Format data/factory reset`. Your phone will display a message that /data, /cache, and /metadata have been formatted.
 11. Reboot and enjoy.
 
+> [!NOTE]
+> los_recovery is required to load partition/metadata
+
 ## Install directly to the system via bootloader/fastboot:
 
 1. Download a MiThoriumSSI ROM build in ZIP format.
