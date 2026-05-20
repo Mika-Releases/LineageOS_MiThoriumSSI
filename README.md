@@ -1,5 +1,5 @@
-![LineageOS Banner](/assets/los1.jpg)
-> Welcome to Mika LineageOS_vince releases!
+![LineageOS Banner](/assets/los-old.jpg)
+> Welcome to Mika LineageOS_MiThoriumSSI releases!
 
 > "Our system can make your phone look Kawaii"
 
