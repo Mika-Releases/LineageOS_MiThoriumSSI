@@ -31,4 +31,4 @@
 ### Last
 > Good luck :3
 
-[![Release downloads](https://img.shields.io/github/downloads/Mika-Releases/LineageOS_vince/total.svg)](https://github.com/Mika-Releases/LineageOS_vince/releases/)
+[![Release downloads](https://img.shields.io/github/downloads/Mika-Releases/LineageOS_MiThoriumSSI/total.svg)](https://github.com/Mika-Releases/LineageOS_MiThoriumSSI/releases/)
